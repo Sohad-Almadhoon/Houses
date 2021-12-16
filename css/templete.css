@@ -22,7 +22,7 @@
         color: #fff;
     }
     .header{
-        background-image: url(images/banner-bg.jpg);
+        background-image: url(../images/banner-bg.jpg);
         padding: 2% 8%;
         text-align: center;
     }
